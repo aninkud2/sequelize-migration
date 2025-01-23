@@ -1,23 +1,23 @@
 {
   "development": {
+    "username": "root",
+    "password": "root",
+    "database": "ecoomerce",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
     "username": "sql7758150",
     "password": "ESdNyH3gzd",
     "database": "sql7758150",
     "host": "sql7.freesqldatabase.com",
     "dialect": "mysql"
   },
-  "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "sql7758150",
+    "password": "ESdNyH3gzd",
+    "database": "sql7758150",
+    "host": "sql7.freesqldatabase.com",
     "dialect": "mysql"
   }
 }
